@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Advances in Quantum Computing",
+      "author": "John A. Doe",
+      "journal": "Journal of Theoretical Physics",
+      "year": 2023,
+      "doi": "10.1234/jtp.2023.001"
+    },
+    {
+      "id": 2,
+      "title": "Deep Learning Applications in Medical Diagnosis",
+      "author": "Jane B. Smith",
+      "journal": "AI in Healthcare",
+      "year": 2022,
+      "doi": "10.5678/aih.2022.045"
+    },
+    {
+      "id": 3,
+      "title": "Climate Change and Its Impact on Marine Ecosystems",
+      "author": "Carlos M. Rodríguez",
+      "journal": "Environmental Science Review",
+      "year": 2021,
+      "doi": "10.9012/esr.2021.078"
+    },
+    {
+      "id": 4,
+      "title": "The Role of Nanotechnology in Drug Delivery Systems",
+      "author": "Emily K. Johnson",
+      "journal": "Pharmaceutical Innovations",
+      "year": 2024,
+      "doi": "10.3456/pi.2024.012"
+    },
+    {
+      "id": 5,
+      "title": "Gravitational Waves: Observations and Future Prospects",
+      "author": "Michael L. Brown",
+      "journal": "Astrophysics Journal",
+      "year": 2023,
+      "doi": "10.7890/aj.2023.099"
+    },
+    {
+      "id": 6,
+      "title": "Artificial Intelligence in Financial Markets",
+      "author": "Sophia N. Wang",
+      "journal": "Journal of Computational Finance",
+      "year": 2022,
+      "doi": "10.1122/jcf.2022.033"
+    },
+    {
+      "id": 7,
+      "title": "CRISPR and the Future of Genetic Engineering",
+      "author": "David P. Lee",
+      "journal": "Genomics and Biotechnology",
+      "year": 2021,
+      "doi": "10.3345/gb.2021.056"
+    },
+    {
+      "id": 8,
+      "title": "Renewable Energy Solutions for a Sustainable Future",
+      "author": "Linda G. Martinez",
+      "journal": "Green Energy Research",
+      "year": 2024,
+      "doi": "10.5567/ger.2024.021"
+    },
+    {
+      "id": 9,
+      "title": "Advancements in Robotics for Industrial Automation",
+      "author": "Robert C. Allen",
+      "journal": "Journal of Robotics and AI",
+      "year": 2023,
+      "doi": "10.6677/jrai.2023.088"
+    },
+    {
+      "id": 10,
+      "title": "Black Hole Thermodynamics: A Modern Perspective",
+      "author": "Alice D. Thompson",
+      "journal": "Theoretical Physics Letters",
+      "year": 2022,
+      "doi": "10.7788/tpl.2022.044"
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@example.com",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "johndoe",
+    "email": "johndoe@example.com",
+    "role": "editor"
+  },
+  {
+    "id": 3,
+    "username": "janedoe",
+    "email": "janedoe@example.com",
+    "role": "editor"
+  },
+  {
+    "id": 4,
+    "username": "mike92",
+    "email": "mike92@example.com",
+    "role": "author"
+  },
+  {
+    "id": 5,
+    "username": "lucy_writer",
+    "email": "lucy@example.com",
+    "role": "author"
+  },
+  {
+    "id": 6,
+    "username": "tom_reviewer",
+    "email": "tom@example.com",
+    "role": "reviewer"
+  },
+  {
+    "id": 7,
+    "username": "sarah_blog",
+    "email": "sarah@example.com",
+    "role": "author"
+  },
+  {
+    "id": 8,
+    "username": "chris_mod",
+    "email": "chris@example.com",
+    "role": "moderator"
+  },
+  {
+    "id": 9,
+    "username": "emma_guest",
+    "email": "emma@example.com",
+    "role": "guest"
+  },
+  {
+    "id": 10,
+    "username": "david_guest",
+    "email": "david@example.com",
+    "role": "guest"
+  }
+]
