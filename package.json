@@ -1,0 +1,12 @@
+{
+  "name": "blog_api",
+  "version": "0.0.1",
+  "description": "API para un blog dedicado a investigaciones, estudios profesionaales y documentación.",
+  "main": "./src/App.js",
+  "scripts": {
+    "start": "node ./src/App.js"
+  },
+  "keywords": [API], [javascript],
+  "author": "Andres PS",
+  "license": "MIT"
+}
